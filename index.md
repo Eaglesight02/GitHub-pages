@@ -1,5 +1,5 @@
 ---
-title: This is my first ever static website to be hosted on GitHub pages!!!
+title: First GitHub blog post
 ---
 # I'm so excited to do this!! :grinning:
 
